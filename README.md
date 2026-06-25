@@ -195,13 +195,9 @@ Displays:
 
 ---
 
-# 📷 Dashboard Preview
+## 📸 Dashboard Preview
 
-(WALMART SALES DASHBOARD screenshot)
-
-
-[Power BI Dashboard](dashboard.png)
-
+![Walmart Sales Dashboard](dashboard.png)
 
 ---
 
