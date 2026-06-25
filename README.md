@@ -197,7 +197,7 @@ Displays:
 
 ## 📸 Dashboard Preview
 
-![Walmart Sales Dashboard](dashboard.png)
+![Walmart Sales Dashboard](dashboard.jpg.jpeg)
 
 ---
 
