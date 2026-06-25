@@ -197,11 +197,11 @@ Displays:
 
 # 📷 Dashboard Preview
 
-(Add your Power BI dashboard screenshot here)
+(WALMART SALES DASHBOARD screenshot)
 
-```
-![Power BI Dashboard](dashboard.png)
-```
+
+[Power BI Dashboard](dashboard.png)
+
 
 ---
 
