@@ -200,7 +200,7 @@ Displays:
 (WALMART SALES DASHBOARD screenshot)
 
 
-[Power BI Dashboard](dashboard.png)
+[Power BI Dashboard](dashboard.png.jpeg)
 
 
 ---
